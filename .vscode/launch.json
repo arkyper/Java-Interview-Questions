@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ARKODE3",
+            "request": "launch",
+            "mainClass": "ARKODE3",
+            "projectName": "Java-Interview-Questions_19594798"
+        },
+        {
+            "type": "java",
+            "name": "ARKODE2",
+            "request": "launch",
+            "mainClass": "ARKODE2",
+            "projectName": "Java-Interview-Questions_19594798"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ARKODE1",
+            "request": "launch",
+            "mainClass": "ARKODE1",
+            "projectName": "Java-Interview-Questions_19594798"
+        }
+    ]
+}
